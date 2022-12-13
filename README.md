@@ -1,6 +1,7 @@
 # Objectives
-The purposes of this project are to showcase for data cleaning and data analysis (via pivot table).
-The used dataset is about sales records for 4 years from different retail channels.
+The purposes of this project are to showcase for data cleaning and data analysis (via Excel, R, and Python).
+
+The used dataset herein is about sales records for 4 years from different retail channels.
 
 ## For data cleaning
 The raw dataset contains several mistakes, including :
@@ -10,3 +11,5 @@ The raw dataset contains several mistakes, including :
 - Duplicated row
 - Whie space
 - Typo
+
+Note : The dataset was originally obtained from a course in 365 data science and then modified by myself for only learning purposes. 
