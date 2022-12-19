@@ -23,4 +23,4 @@ Further analysis was achieved and presented by a Dashboard from Looker Studio. T
 ![Preview_Dashboard_Looker_studio_1](https://user-images.githubusercontent.com/88144399/208516200-36cec74d-bc96-42ae-a47d-4f50de95f475.jpg)
 
 
-For full version, you can look into [Here](https://datastudio.google.com/reporting/28d1d705-916f-49d9-b53f-66d311515808).
+For the dashboard with full version, you can look into [Here](https://datastudio.google.com/reporting/28d1d705-916f-49d9-b53f-66d311515808).
