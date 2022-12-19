@@ -19,7 +19,7 @@ You can look up in this [Link](https://attasithp.wordpress.com/2022/12/05/data-c
 I showed the code for obtaining the pivot table from the dataset by using R and Python in order to compare with Excel.
 
 Further analysis was achieved and presented by a Dashboard from Looker Studio.
+![Preview_Dashboard_Looker_studio_1](https://user-images.githubusercontent.com/88144399/208516200-36cec74d-bc96-42ae-a47d-4f50de95f475.jpg)
 
-![Overall_dashboard_looker_studio](https://drive.google.com/file/d/10VuRtCHWPtKu9z5I4K_IngLAUyrNunvP/view?usp=sharing)
 
 For full version, you can look into [Here](https://datastudio.google.com/reporting/28d1d705-916f-49d9-b53f-66d311515808).
