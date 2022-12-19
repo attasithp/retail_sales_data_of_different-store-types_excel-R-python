@@ -20,6 +20,6 @@ I showed the code for obtaining the pivot table from the dataset by using R and 
 
 Further analysis was achieved and presented by a Dashboard from Looker Studio.
 
-![Overall_dashboard_looker_studio](https://drive.google.com/file/d/10VuRtCHWPtKu9z5I4K_IngLAUyrNunvP/view?usp=sharing "Sales Analysis Overview")
+![Overall_dashboard_looker_studio](https://drive.google.com/file/d/10VuRtCHWPtKu9z5I4K_IngLAUyrNunvP/view?usp=sharing)
 
 For full version, you can look into [Here](https://datastudio.google.com/reporting/28d1d705-916f-49d9-b53f-66d311515808).
