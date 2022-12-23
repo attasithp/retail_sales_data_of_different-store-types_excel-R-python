@@ -20,7 +20,8 @@ I showed the code for obtaining the pivot table from the dataset by using R and 
 
 Further analysis was achieved and presented by a Dashboard from Looker Studio. The explaination about the dashboard was elaborated [here](https://attasithp.wordpress.com/2022/12/16/compare-pivot-table-3-ways-and-looker-studio/).
 
-![Preview_Dashboard_Looker_studio_1](https://user-images.githubusercontent.com/88144399/208516200-36cec74d-bc96-42ae-a47d-4f50de95f475.jpg)
+<img width="681" alt="Preview_Dashboard_Looker_studio_2" src="https://user-images.githubusercontent.com/88144399/209247287-18482d47-2f39-45d6-984a-1f09e3ec0472.png">
+
 
 
 For the dashboard with full version, you can look into [Here](https://datastudio.google.com/reporting/28d1d705-916f-49d9-b53f-66d311515808).
